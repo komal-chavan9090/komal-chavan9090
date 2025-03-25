@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @komal-chavan
 - 👀 I’m interested in Problem solving and web development.
-- I am Currently persuing Computer Science Degree at Walchand College Of Engineering , Sangli 
+- I am Currently persuing Computer Science Degree at Walchand College Of Engineering , Sangli
+- Pronounce - She/her 
 
 <!---
 komal-chavan9090/komal-chavan9090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
