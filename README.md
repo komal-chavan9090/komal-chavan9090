@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @komal-chavan
 - 👀 I’m interested in Problem solving and web development.
 - I am Currently persuing Computer Science Degree at Walchand College Of Engineering , Sangli
+- I am interested in solving low level design questions
 - Pronounce - She/her 
 
 <!---
